@@ -23,6 +23,7 @@ form {
   gap: 1em;
   max-width: max(250px, 50vw);
   margin-bottom: 2em;
+  align-items: center;
 }
 
 #notes-container pre {
